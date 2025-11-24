@@ -21,8 +21,8 @@ To write a Python program to generate a graph for a given **fixed degree sequenc
 ## PYTHON PROGRAM
 
 ```
-Name : Bavankalyan P V
-Reg No : 212223060062
+Name : Prince Andrew A
+Reg No : 212223060210
 Python3 program to generate a graph
 # for a given fixed degrees
 

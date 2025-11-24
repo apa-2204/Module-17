@@ -26,8 +26,8 @@ To write a Python program to **print BFS traversal** from a given source vertex.
 ## PYTHON PROGRAM
 
 ```
-Name : Bavankalyan P V
-Reg No : 212223060030
+Name : Prince Andrew A
+Reg No : 212223060210
 # Python3 Program to print BFS traversal
 # from a given source vertex. BFS(int s)
 # traverses vertices reachable from s.
